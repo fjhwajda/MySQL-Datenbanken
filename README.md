@@ -1,4 +1,4 @@
-# MySQL-Datenbanken
+# MySQL-Datenbanken-Baisics
 
 ## Commands
 
