@@ -1,5 +1,5 @@
 # MySQL-Datenbanken-Baisics
-
+Eine SQL‑Datenbank besteht aus einigen grundlegenden Bausteinen, die in fast jedem relationalen System vorkommen. Diese Konzepte bleiben inhaltlich gleich, auch wenn sich die konkrete SQL‑Syntax je nach System leicht unterscheidet. Dazu gehören Tabellen zur strukturierten Datenspeicherung, Schlüssel zur eindeutigen Identifikation, Beziehungen zwischen Tabellen, Abfragen zum Lesen von Daten sowie Befehle zum Einfügen, Ändern und Löschen. In diesem Dokument werden diese Kernkonzepte zusammengefasst, um den Einstieg in SQL‑Datenbanken zu erleichtern.
 ## Commands
 
 Datenbank erstellen
